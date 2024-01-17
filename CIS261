@@ -1,0 +1,8 @@
+guess = input("what's my favorite number?")
+
+if guess = "numbers:
+ print ("yes! So amazing")
+else:
+       print(no! That's not it!")
+
+       print("Thanks for playing!")
